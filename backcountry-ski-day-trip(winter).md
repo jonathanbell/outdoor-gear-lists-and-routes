@@ -1,3 +1,6 @@
+Backcountry Skiing Day Trip (Winter)
+====================================
+
 20L backpack
 two Aluminum ice axes
 ski boot compatible crampons

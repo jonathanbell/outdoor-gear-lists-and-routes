@@ -1,5 +1,5 @@
-Kayaking Multi-Day (Summer)
-===========================
+Kayaking Multi-day Trip (Summer)
+================================
 
 ## Toiletries/Toiletries Bag
 
