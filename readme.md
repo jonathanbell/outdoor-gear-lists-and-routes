@@ -1,2 +1,3 @@
-# gear-lists
+# Outdoor Equipment Lists
+
 Equipment lists for outdoor adventures
