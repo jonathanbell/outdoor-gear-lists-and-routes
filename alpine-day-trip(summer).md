@@ -14,7 +14,6 @@ Alpine Climbing Day Trip (Summer)
 
 - Small Pack (~20-35L)
 - Rock Shoes
-- Dehydrated Food (plan separately)
 - Smartphone
 - InReach
 - Map and/or Route Beta
@@ -34,13 +33,12 @@ Alpine Climbing Day Trip (Summer)
 - Camera
 - Sunscreen
 - Chapstick
-- Snacks (plan separately)
+- Snacks
 - Electrolytes/Vitamins/Vega Products
 - First Aid Kit
 - GPS Watch
 - Whistle
 - Compass
-- GoPro
 
 ## Clothing on Your Back
 
