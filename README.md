@@ -8,4 +8,6 @@ For an alpine climbing gear list, you could always draw inspiration from [here](
 
 - [Alpine Climbing & Mountaineering](./gear-lists/alpine-climbing.md)
 - [Hiking](./gear-lists/hiking.md)
+- [Kayaking](./gear-lists/kayaking.md)
+- [Ski Mountaineering](./gear-lists/ski-mountaineering.md)
 - [Trail Running](./gear-lists/trail-running.md)
