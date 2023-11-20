@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="Movescount - http://www.movescount.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1">
+   <rte>
+      <name>Consolation Lakes Lake Louise</name>
+      <rtept lat="51.3284" lon="-116.1809">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328494" lon="-116.180516">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328283" lon="-116.180345">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328258" lon="-116.180126">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328179" lon="-116.179831">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328205" lon="-116.179704">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328267" lon="-116.179572">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328299" lon="-116.179458">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328299" lon="-116.179218">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.328321" lon="-116.179126">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328285" lon="-116.178744">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328132" lon="-116.178353">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.327984" lon="-116.178229">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.327899" lon="-116.178106">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.327951" lon="-116.17784">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.327966" lon="-116.177482">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.327954" lon="-116.177283">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.32799" lon="-116.177155">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328173" lon="-116.176973">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328233" lon="-116.176817">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328283" lon="-116.176551">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328341" lon="-116.176342">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328449" lon="-116.176087">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328493" lon="-116.176017">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328558" lon="-116.175705">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328674" lon="-116.175328">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328724" lon="-116.175071">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328786" lon="-116.174926">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.328893" lon="-116.174838">
+         <ele>1850</ele>
+      </rtept>
+      <rtept lat="51.32941" lon="-116.174154">
+         <ele>1860</ele>
+      </rtept>
+      <rtept lat="51.329756" lon="-116.173402">
+         <ele>1870</ele>
+      </rtept>
+      <rtept lat="51.330292" lon="-116.172933">
+         <ele>1870</ele>
+      </rtept>
+      <rtept lat="51.330443" lon="-116.172614">
+         <ele>1880</ele>
+      </rtept>
+      <rtept lat="51.33072" lon="-116.17238">
+         <ele>1880</ele>
+      </rtept>
+      <rtept lat="51.330808" lon="-116.172177">
+         <ele>1880</ele>
+      </rtept>
+      <rtept lat="51.331128" lon="-116.171626">
+         <ele>1890</ele>
+      </rtept>
+      <rtept lat="51.331215" lon="-116.171294">
+         <ele>1890</ele>
+      </rtept>
+      <rtept lat="51.331685" lon="-116.170224">
+         <ele>1890</ele>
+      </rtept>
+      <rtept lat="51.331772" lon="-116.169906">
+         <ele>1890</ele>
+      </rtept>
+      <rtept lat="51.33184" lon="-116.169331">
+         <ele>1900</ele>
+      </rtept>
+      <rtept lat="51.331838" lon="-116.169087">
+         <ele>1910</ele>
+      </rtept>
+      <rtept lat="51.331791" lon="-116.168815">
+         <ele>1910</ele>
+      </rtept>
+      <rtept lat="51.331727" lon="-116.168701">
+         <ele>1910</ele>
+      </rtept>
+      <rtept lat="51.331645" lon="-116.168473">
+         <ele>1910</ele>
+      </rtept>
+      <rtept lat="51.331486" lon="-116.167916">
+         <ele>1920</ele>
+      </rtept>
+      <rtept lat="51.331323" lon="-116.167417">
+         <ele>1920</ele>
+      </rtept>
+      <rtept lat="51.330379" lon="-116.166257">
+         <ele>1930</ele>
+      </rtept>
+      <rtept lat="51.33027" lon="-116.166101">
+         <ele>1920</ele>
+      </rtept>
+      <rtept lat="51.330207" lon="-116.165973">
+         <ele>1920</ele>
+      </rtept>
+      <rtept lat="51.329971" lon="-116.165704">
+         <ele>1930</ele>
+      </rtept>
+      <rtept lat="51.329817" lon="-116.165621">
+         <ele>1930</ele>
+      </rtept>
+      <rtept lat="51.329781" lon="-116.165564">
+         <ele>1930</ele>
+      </rtept>
+      <rtept lat="51.329114" lon="-116.165332">
+         <ele>1930</ele>
+      </rtept>
+      <rtept lat="51.329132" lon="-116.165318">
+         <ele>1930</ele>
+      </rtept>
+      <rtept lat="51.328943" lon="-116.16535">
+         <ele>1940</ele>
+      </rtept>
+      <rtept lat="51.328896" lon="-116.165121">
+         <ele>1930</ele>
+      </rtept>
+      <rtept lat="51.32868" lon="-116.164996">
+         <ele>1940</ele>
+      </rtept>
+      <rtept lat="51.328101" lon="-116.164518">
+         <ele>1940</ele>
+      </rtept>
+      <rtept lat="51.328083" lon="-116.164476">
+         <ele>1940</ele>
+      </rtept>
+      <rtept lat="51.327918" lon="-116.164429">
+         <ele>1940</ele>
+      </rtept>
+      <rtept lat="51.327541" lon="-116.164241">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.327415" lon="-116.164215">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.327179" lon="-116.16386">
+         <ele>1940</ele>
+      </rtept>
+      <rtept lat="51.32654" lon="-116.162509">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.326152" lon="-116.162286">
+         <ele>1940</ele>
+      </rtept>
+      <rtept lat="51.325466" lon="-116.162026">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.325314" lon="-116.162057">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.325035" lon="-116.162048">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.324864" lon="-116.162008">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.324177" lon="-116.161576">
+         <ele>1960</ele>
+      </rtept>
+      <rtept lat="51.323923" lon="-116.161308">
+         <ele>1960</ele>
+      </rtept>
+      <rtept lat="51.323722" lon="-116.160809">
+         <ele>1960</ele>
+      </rtept>
+      <rtept lat="51.323592" lon="-116.160733">
+         <ele>1960</ele>
+      </rtept>
+      <rtept lat="51.322914" lon="-116.159719">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.322761" lon="-116.15965">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.322398" lon="-116.159283">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.322091" lon="-116.159074">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.321928" lon="-116.158919">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.321712" lon="-116.158808">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.321514" lon="-116.158797">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.321215" lon="-116.158472">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.321196" lon="-116.158387">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.321069" lon="-116.158303">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.32087" lon="-116.158063">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.320806" lon="-116.157906">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.320679" lon="-116.157736">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.320597" lon="-116.15768">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.320534" lon="-116.157552">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.320425" lon="-116.157454">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.320253" lon="-116.157357">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.320099" lon="-116.157158">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.319865" lon="-116.157134">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.319756" lon="-116.156993">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.319477" lon="-116.156969">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.319369" lon="-116.156856">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.319196" lon="-116.156601">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.319069" lon="-116.156517">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.319051" lon="-116.156474">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318961" lon="-116.156404">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318942" lon="-116.156362">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318879" lon="-116.156348">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318743" lon="-116.156236">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318725" lon="-116.156194">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318769" lon="-116.156064">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318751" lon="-116.155963">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318855" lon="-116.155546">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318683" lon="-116.155362">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318228" lon="-116.154624">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318246" lon="-116.154615">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318228" lon="-116.154624">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318683" lon="-116.155362">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318855" lon="-116.155546">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318751" lon="-116.155963">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318769" lon="-116.156064">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.318725" lon="-116.156194">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.317987" lon="-116.156142">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.317061" lon="-116.156031">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.316069" lon="-116.155958">
+         <ele>1960</ele>
+      </rtept>
+      <rtept lat="51.31565" lon="-116.155441">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.315189" lon="-116.154998">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.314751" lon="-116.154281">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.31417" lon="-116.15302">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.31357" lon="-116.15224">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.312848" lon="-116.151454">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.312502" lon="-116.150831">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.312592" lon="-116.150502">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.312641" lon="-116.15032">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.312578" lon="-116.14984">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.312169" lon="-116.149371">
+         <ele>1950</ele>
+      </rtept>
+      <rtept lat="51.311831" lon="-116.149159">
+         <ele>1950</ele>
+      </rtept>
+   </rte>
+</gpx>

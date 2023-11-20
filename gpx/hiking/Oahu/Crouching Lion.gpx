@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <name>Crouching Lion</name>
+  <author>
+   <name>Jonathan Bell</name>
+   <link href="https://www.strava.com/athletes/3350904"/>
+  </author>
+  <copyright author="OpenStreetMap contributors">
+   <year>2020</year>
+   <license>https://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <link href="https://www.strava.com/routes/2933562735860882034"/>
+ </metadata>
+ <trk>
+  <name>Crouching Lion</name>
+  <link href="https://www.strava.com/routes/2933562735860882034"/>
+  <type>Run</type>
+  <trkseg>
+   <trkpt lat="21.55807" lon="-157.86630000000002">
+    <ele>2.86</ele>
+   </trkpt>
+   <trkpt lat="21.55818" lon="-157.86567000000002">
+    <ele>10.55</ele>
+   </trkpt>
+   <trkpt lat="21.55817" lon="-157.86568000000003">
+    <ele>14.39</ele>
+   </trkpt>
+   <trkpt lat="21.55816" lon="-157.86565000000002">
+    <ele>14.92</ele>
+   </trkpt>
+   <trkpt lat="21.558200000000003" lon="-157.86522000000002">
+    <ele>29.27</ele>
+   </trkpt>
+   <trkpt lat="21.558200000000003" lon="-157.86506">
+    <ele>36.27</ele>
+   </trkpt>
+   <trkpt lat="21.55815" lon="-157.86488">
+    <ele>49.56</ele>
+   </trkpt>
+   <trkpt lat="21.55808" lon="-157.86474">
+    <ele>56.18000000000001</ele>
+   </trkpt>
+   <trkpt lat="21.55795" lon="-157.86461">
+    <ele>69.9</ele>
+   </trkpt>
+   <trkpt lat="21.557930000000002" lon="-157.86445">
+    <ele>72.32000000000001</ele>
+   </trkpt>
+   <trkpt lat="21.557820000000003" lon="-157.86428">
+    <ele>81.28</ele>
+   </trkpt>
+   <trkpt lat="21.557720000000003" lon="-157.86408">
+    <ele>98.10000000000001</ele>
+   </trkpt>
+   <trkpt lat="21.55769" lon="-157.86398000000003">
+    <ele>103.27000000000001</ele>
+   </trkpt>
+   <trkpt lat="21.55759" lon="-157.86391">
+    <ele>108.26</ele>
+   </trkpt>
+   <trkpt lat="21.557640000000003" lon="-157.86382">
+    <ele>103.54</ele>
+   </trkpt>
+   <trkpt lat="21.557930000000002" lon="-157.86363">
+    <ele>91.09</ele>
+   </trkpt>
+   <trkpt lat="21.55816" lon="-157.86363">
+    <ele>92.65</ele>
+   </trkpt>
+   <trkpt lat="21.558210000000003" lon="-157.86348">
+    <ele>93.36000000000001</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

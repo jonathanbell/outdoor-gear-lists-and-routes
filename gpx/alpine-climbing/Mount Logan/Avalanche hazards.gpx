@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="60.589106523084581" minlon="-140.786518483692305" maxlat="60.621243202859887" maxlon="-140.573450788505909"/></metadata>              
+<trk>
+  <name>Untitled Polygon</name>
+  <extensions>
+    <ogr:tessellate>1</ogr:tessellate>
+  </extensions>
+  <trkseg>
+    <trkpt lat="60.601182865689708" lon="-140.655738082769687">
+    </trkpt>
+    <trkpt lat="60.603041632588727" lon="-140.656482873384789">
+    </trkpt>
+    <trkpt lat="60.604076160621723" lon="-140.661255534884987">
+    </trkpt>
+    <trkpt lat="60.603980449377019" lon="-140.665727740439792">
+    </trkpt>
+    <trkpt lat="60.602475837163247" lon="-140.66601526051889">
+    </trkpt>
+    <trkpt lat="60.60108893141345" lon="-140.660952077064906">
+    </trkpt>
+    <trkpt lat="60.60067807994956" lon="-140.658275460380992">
+    </trkpt>
+    <trkpt lat="60.601182865689708" lon="-140.655738082769687">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Untitled Polygon</name>
+  <extensions>
+    <ogr:tessellate>1</ogr:tessellate>
+  </extensions>
+  <trkseg>
+    <trkpt lat="60.594142096959636" lon="-140.605323120020898">
+    </trkpt>
+    <trkpt lat="60.595266378136323" lon="-140.607938686262912">
+    </trkpt>
+    <trkpt lat="60.594253866062417" lon="-140.610140601789993">
+    </trkpt>
+    <trkpt lat="60.593129385473119" lon="-140.609666120635211">
+    </trkpt>
+    <trkpt lat="60.591913398025838" lon="-140.60747281858221">
+    </trkpt>
+    <trkpt lat="60.591474181339073" lon="-140.604881094975212">
+    </trkpt>
+    <trkpt lat="60.592918955009672" lon="-140.604096936963799">
+    </trkpt>
+    <trkpt lat="60.594142096959636" lon="-140.605323120020898">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Untitled Polygon</name>
+  <extensions>
+    <ogr:tessellate>1</ogr:tessellate>
+  </extensions>
+  <trkseg>
+    <trkpt lat="60.604249915577569" lon="-140.781213941244488">
+    </trkpt>
+    <trkpt lat="60.606245994810187" lon="-140.769164648634387">
+    </trkpt>
+    <trkpt lat="60.60835957546184" lon="-140.75642908532501">
+    </trkpt>
+    <trkpt lat="60.606296167011067" lon="-140.743168727299405">
+    </trkpt>
+    <trkpt lat="60.60475380331134" lon="-140.727080267473212">
+    </trkpt>
+    <trkpt lat="60.602094538262627" lon="-140.712819453460611">
+    </trkpt>
+    <trkpt lat="60.598408643045232" lon="-140.693161861031399">
+    </trkpt>
+    <trkpt lat="60.594277149322927" lon="-140.662909576071399">
+    </trkpt>
+    <trkpt lat="60.589689836548423" lon="-140.64506027847591">
+    </trkpt>
+    <trkpt lat="60.589589231374489" lon="-140.635027784503706">
+    </trkpt>
+    <trkpt lat="60.589106523084581" lon="-140.626934013991587">
+    </trkpt>
+    <trkpt lat="60.590542654417099" lon="-140.626535496639093">
+    </trkpt>
+    <trkpt lat="60.593005689201647" lon="-140.634902336567706">
+    </trkpt>
+    <trkpt lat="60.595360491218877" lon="-140.641532597775097">
+    </trkpt>
+    <trkpt lat="60.599581953803082" lon="-140.669378398134199">
+    </trkpt>
+    <trkpt lat="60.60141075914806" lon="-140.670270806688308">
+    </trkpt>
+    <trkpt lat="60.604379504789883" lon="-140.674761246250313">
+    </trkpt>
+    <trkpt lat="60.606329281703523" lon="-140.684421240967197">
+    </trkpt>
+    <trkpt lat="60.605081435807968" lon="-140.69016109491281">
+    </trkpt>
+    <trkpt lat="60.605048741597912" lon="-140.69648532649461">
+    </trkpt>
+    <trkpt lat="60.605282435288288" lon="-140.7026831259262">
+    </trkpt>
+    <trkpt lat="60.605199030175193" lon="-140.708800232718488">
+    </trkpt>
+    <trkpt lat="60.610327863051381" lon="-140.757185153189312">
+    </trkpt>
+    <trkpt lat="60.609949570999611" lon="-140.764225985243314">
+    </trkpt>
+    <trkpt lat="60.609459956402212" lon="-140.773761468746386">
+    </trkpt>
+    <trkpt lat="60.608280861008673" lon="-140.780598853254588">
+    </trkpt>
+    <trkpt lat="60.606715339025612" lon="-140.786518483692305">
+    </trkpt>
+    <trkpt lat="60.604249915577569" lon="-140.781213941244488">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Untitled Polygon</name>
+  <extensions>
+    <ogr:tessellate>1</ogr:tessellate>
+  </extensions>
+  <trkseg>
+    <trkpt lat="60.60654104029301" lon="-140.663539787620095">
+    </trkpt>
+    <trkpt lat="60.608161250651143" lon="-140.6608369415205">
+    </trkpt>
+    <trkpt lat="60.612090473273128" lon="-140.65577242026481">
+    </trkpt>
+    <trkpt lat="60.614106788898212" lon="-140.658443279228408">
+    </trkpt>
+    <trkpt lat="60.616484242521018" lon="-140.66168644755129">
+    </trkpt>
+    <trkpt lat="60.615983909012442" lon="-140.668126172371387">
+    </trkpt>
+    <trkpt lat="60.612743888847319" lon="-140.66834331613461">
+    </trkpt>
+    <trkpt lat="60.612842179744248" lon="-140.676713536134002">
+    </trkpt>
+    <trkpt lat="60.615791945952417" lon="-140.688886625499094">
+    </trkpt>
+    <trkpt lat="60.61761650193921" lon="-140.698898615839511">
+    </trkpt>
+    <trkpt lat="60.618368694942937" lon="-140.7095364352258">
+    </trkpt>
+    <trkpt lat="60.619593801908849" lon="-140.719098344130714">
+    </trkpt>
+    <trkpt lat="60.621130752238628" lon="-140.730914380382501">
+    </trkpt>
+    <trkpt lat="60.621243202859887" lon="-140.738616347455888">
+    </trkpt>
+    <trkpt lat="60.620142903216063" lon="-140.742207819544802">
+    </trkpt>
+    <trkpt lat="60.619182670787929" lon="-140.738378851647411">
+    </trkpt>
+    <trkpt lat="60.617718995665257" lon="-140.730383214218506">
+    </trkpt>
+    <trkpt lat="60.615716130613798" lon="-140.707166730915588">
+    </trkpt>
+    <trkpt lat="60.61508466956672" lon="-140.697278190236602">
+    </trkpt>
+    <trkpt lat="60.613075940217122" lon="-140.686541391140793">
+    </trkpt>
+    <trkpt lat="60.609550582381118" lon="-140.685201282116196">
+    </trkpt>
+    <trkpt lat="60.604800497586751" lon="-140.670997978365591">
+    </trkpt>
+    <trkpt lat="60.602179699349442" lon="-140.662310297631507">
+    </trkpt>
+    <trkpt lat="60.599137527169127" lon="-140.651177732635205">
+    </trkpt>
+    <trkpt lat="60.597542910251867" lon="-140.63933200802299">
+    </trkpt>
+    <trkpt lat="60.59847766372566" lon="-140.637899524179886">
+    </trkpt>
+    <trkpt lat="60.60654104029301" lon="-140.663539787620095">
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Untitled Polygon</name>
+  <extensions>
+    <ogr:tessellate>1</ogr:tessellate>
+  </extensions>
+  <trkseg>
+    <trkpt lat="60.602761170175533" lon="-140.573450788505909">
+    </trkpt>
+    <trkpt lat="60.602878773173721" lon="-140.577010117252001">
+    </trkpt>
+    <trkpt lat="60.602355160908907" lon="-140.583336623821111">
+    </trkpt>
+    <trkpt lat="60.600566199130313" lon="-140.588864478177186">
+    </trkpt>
+    <trkpt lat="60.599326864709759" lon="-140.594026456575591">
+    </trkpt>
+    <trkpt lat="60.59827575602354" lon="-140.597880158798603">
+    </trkpt>
+    <trkpt lat="60.597123467821199" lon="-140.597062640357109">
+    </trkpt>
+    <trkpt lat="60.597352129009437" lon="-140.593149108180313">
+    </trkpt>
+    <trkpt lat="60.598027475348687" lon="-140.588532576166813">
+    </trkpt>
+    <trkpt lat="60.602761170175533" lon="-140.573450788505909">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

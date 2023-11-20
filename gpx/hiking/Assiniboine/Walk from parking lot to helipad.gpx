@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <name>Walk to helipad</name>
+  <author>
+   <name>Jonathan Bell</name>
+   <link href="https://www.strava.com/athletes/3350904"/>
+  </author>
+  <copyright author="OpenStreetMap contributors">
+   <year>2020</year>
+   <license>https://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <link href="https://www.strava.com/routes/2851206216022007418"/>
+ </metadata>
+ <trk>
+  <name>Walk to helipad</name>
+  <link href="https://www.strava.com/routes/2851206216022007418"/>
+  <type>Run</type>
+  <trkseg>
+   <trkpt lat="50.85916" lon="-115.37897000000001">
+    <ele>1749.72</ele>
+   </trkpt>
+   <trkpt lat="50.859100000000005" lon="-115.37897000000001">
+    <ele>1750.13</ele>
+   </trkpt>
+   <trkpt lat="50.85913000000001" lon="-115.37849000000001">
+    <ele>1750.94</ele>
+   </trkpt>
+   <trkpt lat="50.858880000000006" lon="-115.37715000000001">
+    <ele>1761.14</ele>
+   </trkpt>
+   <trkpt lat="50.85851" lon="-115.37676">
+    <ele>1766.8300000000002</ele>
+   </trkpt>
+   <trkpt lat="50.857820000000004" lon="-115.37610000000001">
+    <ele>1778.0500000000002</ele>
+   </trkpt>
+   <trkpt lat="50.85731000021249" lon="-115.3758249969329">
+    <ele>1785.0</ele>
+   </trkpt>
+   <trkpt lat="50.85680000000001" lon="-115.37555">
+    <ele>1791.5800000000002</ele>
+   </trkpt>
+   <trkpt lat="50.856860000000005" lon="-115.37557000000001">
+    <ele>1789.15</ele>
+   </trkpt>
+   <trkpt lat="50.8569" lon="-115.37533">
+    <ele>1789.15</ele>
+   </trkpt>
+   <trkpt lat="50.85698000000001" lon="-115.37508000000001">
+    <ele>1788.41</ele>
+   </trkpt>
+   <trkpt lat="50.85727000000001" lon="-115.3743">
+    <ele>1788.41</ele>
+   </trkpt>
+   <trkpt lat="50.85765000000001" lon="-115.37357000000002">
+    <ele>1785.8400000000001</ele>
+   </trkpt>
+   <trkpt lat="50.858160000000005" lon="-115.37250000000002">
+    <ele>1783.24</ele>
+   </trkpt>
+   <trkpt lat="50.85837" lon="-115.37209000000001">
+    <ele>1783.24</ele>
+   </trkpt>
+   <trkpt lat="50.858520000000006" lon="-115.37179">
+    <ele>1782.7</ele>
+   </trkpt>
+   <trkpt lat="50.85835" lon="-115.37156">
+    <ele>1787.91</ele>
+   </trkpt>
+   <trkpt lat="50.85804" lon="-115.3708">
+    <ele>1794.8100000000002</ele>
+   </trkpt>
+   <trkpt lat="50.85777" lon="-115.37041">
+    <ele>1799.6200000000001</ele>
+   </trkpt>
+   <trkpt lat="50.85763000000001" lon="-115.36973">
+    <ele>1802.3500000000001</ele>
+   </trkpt>
+   <trkpt lat="50.857890000000005" lon="-115.36883">
+    <ele>1801.41</ele>
+   </trkpt>
+   <trkpt lat="50.858320000000006" lon="-115.36766000000001">
+    <ele>1805.44</ele>
+   </trkpt>
+   <trkpt lat="50.85855" lon="-115.36679000000001">
+    <ele>1809.26</ele>
+   </trkpt>
+   <trkpt lat="50.8588" lon="-115.36560000000001">
+    <ele>1813.9</ele>
+   </trkpt>
+   <trkpt lat="50.858900000000006" lon="-115.36494">
+    <ele>1812.95</ele>
+   </trkpt>
+   <trkpt lat="50.85909" lon="-115.36458">
+    <ele>1801.9300000000003</ele>
+   </trkpt>
+   <trkpt lat="50.85893" lon="-115.36436">
+    <ele>1801.16</ele>
+   </trkpt>
+   <trkpt lat="50.85891" lon="-115.36407000000001">
+    <ele>1801.16</ele>
+   </trkpt>
+   <trkpt lat="50.85891" lon="-115.36409">
+    <ele>1801.16</ele>
+   </trkpt>
+   <trkpt lat="50.85891" lon="-115.36390000000002">
+    <ele>1800.9400000000003</ele>
+   </trkpt>
+   <trkpt lat="50.85891" lon="-115.36391">
+    <ele>1800.9400000000003</ele>
+   </trkpt>
+   <trkpt lat="50.858920000000005" lon="-115.36389000000001">
+    <ele>1800.92</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
