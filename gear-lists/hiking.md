@@ -90,4 +90,4 @@ For route ideas, see [the `gpx` folder](../gpx/hiking).
   - Sandals (optional)
   - Wallet
   - Keys
-  - > $50 in cash
+  - more than $50 in cash
