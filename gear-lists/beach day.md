@@ -1,0 +1,11 @@
+- Hand sanitizer
+- Diapers
+- Chair(s)
+- Sun tent
+- Sunscreen
+- Hats
+- Foldable wagon
+- SUP w/ paddle and backpack
+- Snacks
+- Blanket
+- Towel(s)
